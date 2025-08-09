@@ -33,3 +33,4 @@ A single HTML file named `index.html`. It should include:
 * Apply basic on-page SEO techniques.
 * Follow clean, readable HTML code structure.
 
+# my_list.py-week2_assignment-
